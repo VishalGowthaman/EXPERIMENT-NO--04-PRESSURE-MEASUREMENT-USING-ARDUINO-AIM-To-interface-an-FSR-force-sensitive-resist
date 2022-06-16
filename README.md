@@ -2,7 +2,7 @@
 
 
 ## AIM: 
-To interface an FSR(force sensitive resistor) and scale the output voltage obtained to pressure applied 
+To interface an FSR(force sensitive resistor) and measure the force applied. Indicate the change in force applied using LED s.
  
 ### COMPONENTS REQUIRED:
 1.	FSR  (force sensitive resistor)
@@ -118,4 +118,5 @@ if (fsrreading >900) {
 ### TABLE -02 OUTPUT VOLTAGES AND CHANGE IN RESISTANCES
 ![](https://github.com/VishalGowthaman/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/blob/main/robo1.png)
 
-### RESULTS : Arduino uno is interfaced with FSR and output values are indicated on a graph.
+### RESULTS : 
+Thus the interfacing using FSR(force sensitive resistor)is simulated in tinkerCAD.
